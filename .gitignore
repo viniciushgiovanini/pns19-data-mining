@@ -214,3 +214,4 @@ data/*.xls#
 data/*.txt
 data/*.sas
 !data/.keep
+catboost_info/*
