@@ -29,4 +29,4 @@ A base de dados utilizada nesse projeto foi a PNS - 2019, disponibilizada para d
 
 ### Diagrama Geral do Trabalho
 
-![texto alternativo]("./img/diagrama_etapas_old.drawio.png")
+![diagrama]("[./img/diagrama_etapas_old.drawio.png](https://github.com/viniciushgiovanini/pns19-data-mining/blob/master/img/diagrama_etapas_old.drawio.png)")
